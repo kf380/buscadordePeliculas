@@ -25,7 +25,7 @@ export default({location})=> {
         if(movies){
             return movies.map((value,index)=> <MovieResult key={index} {...value} />)
         }else if (isLoading){
-            return <CircularProgress size={400} color="primary" />
+            return <CircularProgress size={100} color="primary" />
         }
         return <div />
     }
