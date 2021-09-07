@@ -1,9 +1,11 @@
+### Buscador de peliculas
+
 Este repositorio es una practica donde se puede encontrar una pelicula en particular consumiendo la api de OMDB.
 
+💻 Para visitarla = {() => https://nifty-ride-48d1f7.netlify.app/}  
 
 Tecnologias:
 
-React - Redux - Redux Saga - React Router - Axios 
-Material UI
+React - Redux - Redux Saga - React Router - Material UI
 
-**Solo debes clonarla y ejecutar el comando npm install**
+**Para correrlo solo debes clonarlo y ejecutar el comando npm install**
